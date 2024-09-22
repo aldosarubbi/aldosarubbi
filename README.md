@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Aldo
+- Hi there, I’m Aldo 👋
 - 👀 I’m interested in Machine Learning
