@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Aldo
+- 👀 I’m interested in Machine Learning
